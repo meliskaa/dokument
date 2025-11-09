@@ -30,3 +30,20 @@ Oto lista opisująca wybrane rasy kotków:
 -  Sfinks kanadyjski – całkiem bezwłosy, bardzo czuły i towarzyski.
 -  Kot norweski leśny – silny, lubi wspinaczki, doskonały do bardziej
    aktywnych domów.
+
+Tabelka o kotkach
+-------------------
+
++------------------------+---------------------------------------------+
+| Cecha                  | Opis                                        |
++========================+=============================================+
+| Gatunek                | Kot domowy (*Felis catus*)                  |
++------------------------+---------------------------------------------+
+| Średnia długość życia  | 12–18 lat                                   |
++------------------------+---------------------------------------------+
+| Ulubione zajęcie       | Spanie (nawet do 16 godzin dziennie)        |
++------------------------+---------------------------------------------+
+| Liczba zębów           | 30                                          |
++------------------------+---------------------------------------------+
+| Ulubione jedzenie      | Tuńczyk, kurczak, mokra karma               |
++------------------------+---------------------------------------------+

@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to dokument's documentation!
+Witaj w dokumentacji o kotkach!
 ====================================
 
 .. toctree::
@@ -15,7 +15,7 @@ Welcome to dokument's documentation!
    rozdzial3/index
 
 
-Indices and tables
+Indeksy i tabele
 ==================
 
 * :ref:`genindex`

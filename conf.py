@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'dokument'
-copyright = '2025, Maria'
-author = 'Maria'
+project = 'Kotki'
+copyright = '2025, Maria Grzesiak'
+author = 'Maria Grzesiak'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------

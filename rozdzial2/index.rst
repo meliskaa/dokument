@@ -1,14 +1,14 @@
 Więcej o KOTKACH
 ================
 
-   Wbrew stereotypom koty potrafią okazywać głębokie przywiązanie. Każdy
-   kot ma indywidualny charakter: niektóre są bardzo towarzyskie i
-   chętnie śpią na kolanach, inne wolą zachować dystans i budować
-   relacje na własnych zasadach. Sposoby wyrażania uczuć to m.in.
-   ocieranie się o nogi, spanie blisko człowieka, przynoszenie
-   „prezentów” czy łagodne gryzienie w ramach zabawy. Kot, który śpi
-   przy człowieku, okazuje mu ogromne zaufanie, bo w czasie snu jest
-   najbardziej podatny na zagrożenia.
+Wbrew stereotypom koty potrafią okazywać głębokie przywiązanie. Każdy
+kot ma indywidualny charakter: niektóre są bardzo towarzyskie i
+chętnie śpią na kolanach, inne wolą zachować dystans i budować
+relacje na własnych zasadach. Sposoby wyrażania uczuć to m.in.
+ocieranie się o nogi, spanie blisko człowieka, przynoszenie
+„prezentów” czy łagodne gryzienie w ramach zabawy. Kot, który śpi
+przy człowieku, okazuje mu ogromne zaufanie, bo w czasie snu jest
+najbardziej podatny na zagrożenia.
 
 Różnorodność ras kotów jest naprawdę duża. Mamy długowłose persy,
 olbrzymie i łagodne maine coony, eleganckie syjamy z efektownymi oczami,
