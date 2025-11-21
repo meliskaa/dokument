@@ -1,87 +1,63 @@
-DLACZEGO WARTO KOCHAĆ KOTKI
-===========================
+Rozdział 1 
+========================
 
-Koty to jedne z najbardziej fascynujących stworzeń, jakie
-kiedykolwiek towarzyszyły człowiekowi. Są tajemnicze, niezależne, a
-jednocześnie potrafią być niezwykle czułe i przywiązane do swoich
-opiekunów. Historia kotów sięga tysięcy lat wstecz – już w
-starożytnym Egipcie były czczone jako święte zwierzęta, obecne
-zarówno w domach, jak i w świątyniach. Wyobrażenia kotów zdobiły
-ściany grobowców, figurki były umieszczane obok zmarłych jako
-amulety, a nawet mumifikowano same koty, by mogły towarzyszyć swoim
-właścicielom w zaświatach.
+Historia kotów w skrócie
+------------------------
 
-Egipcjanie wierzyli, że koty przynoszą szczęście, chronią dom przynoszą
-szczęście i ochronę przed złymi duchami czy demonicznymi siłami. Z
-kotami wiązała się bogini Bastet – bóstwo miłości, tańca, płodności,
-domowego ogniska i radości, przedstawiane jako postać z głową kota.
-Bastet miała – według wierzeń – chronić rodzinę, dodawać odwagi i
-zapewniać długowieczność. Za zabicie kota groziła w Egipcie surowa kara
-– śmierć, a w niektórych okresach nawet Persowie malowali koty na
-tarczach, wykorzystując w wojnie z Egipcjanami ich święty status.
-Wizerunki kotów były nie tylko symbolem misterium i tajemnicy, ale także
-praktycznej umiejętności przeganiania myszy i węży grożących plonom – co
-mogło zaważyć o losie całej cywilizacji.
+Koty należą do najbardziej intrygujących zwierząt, jakie kiedykolwiek towarzyszyły człowiekowi. 
+Łączą w sobie tajemniczość i niezależność z niezwykłą wrażliwością i zdolnością do tworzenia silnych więzi ze swoimi opiekunami. 
+Potrafią być zarówno zdystansowane, jak i pełne czułości — dlatego od wieków fascynują ludzi na całym świecie.
 
-Po śmierci domowego kota rodzinie zdarzało się golić brwi na znak
-żałoby, a zwłoki ukochanych pupili często były balsamowane i składane
-obok zmarłych, ponieważ wierzono, że koty są pośrednikami między światem
-ludzi a bogami, ułatwiają przepływ modlitwy i zapewniają szczęście
-żyjącym.
+Historia kotów jest znacznie bogatsza, niż mogłoby się wydawać. 
+Jej początki sięgają tysięcy lat wstecz, aż do starożytnego Egiptu, gdzie zwierzęta te były czczone jako istoty święte. 
+Ich wizerunki zdobiły ściany świątyń i grobowców, a figurki kotów umieszczano w grobach zmarłych jako amulety chroniące duszę w zaświatach. 
+Co więcej, same koty były mumifikowane, by mogły towarzyszyć swoim właścicielom po śmierci — dowód ich wyjątkowego statusu w ówczesnym społeczeństwie.
 
-..
+Ślady udomowienia kota sięgają jednak znacznie wcześniej, aż do czasów prehistorycznych. 
+Najstarsze znane szczątki kota domowego odnaleziono w neolitycznym grobie w Shillourokambos na Cyprze, datowanym na około 9500 lat temu. 
+Co istotne, koty te nie były rodzimym gatunkiem tej wyspy — zostały tam sprowadzone przez ludzi z Azji Mniejszej. 
+Oznacza to, że już wtedy człowiek dostrzegał w kocie coś więcej niż dzikie zwierzę — wiernego towarzysza, którego warto zabrać ze sobą w podróż.
 
-..
+W tym samym grobie archeolodzy odnaleźli również glinianą tabliczkę z inwentarzem przeprowadzkowym. 
+Oprócz narzędzi i dóbr codziennego użytku widniał tam również zapis o kocie, co jednoznacznie potwierdza jego szczególne znaczenie w życiu ówczesnych ludzi.
 
-Piękna historia koteczków
----------------------------
+Udomowienie kotów rozpoczęło się około 10 tysięcy lat temu. 
+Ich przodkiem był afrykański kot stepowy (*Felis lybica*), który zaczął zbliżać się do ludzkich osad w poszukiwaniu pożywienia. 
+Obecność myszy żerujących na zbożu przyciągała drapieżniki, które z czasem zaczęły współżyć z człowiekiem w relacji opartej na wzajemnej korzyści: koty chroniły zapasy przed gryzoniami, a ludzie zapewniali im schronienie i pożywienie.
 
-Z czasem koty rozprzestrzeniły się po całym świecie. Pierwsze
-udomowione koty najprawdopodobniej pochodziły od dzikiego kota
-nubijskiego, zamieszkującego tereny Afryki Północnej. Początkowo
-ludzie przyzwyczaili się do ich obecności głównie dlatego, że koty
-polowały na gryzonie, które niszczyły zboże. Z czasem jednak
-zauważono, że koty to nie tylko doskonali łowcy, ale też niezwykli
-towarzysze.
+Proces udomowienia przebiegał niezależnie w kilku regionach świata — przede wszystkim na Bliskim Wschodzie oraz w Egipcie. 
+Wraz z rozwojem rolnictwa i wędrówkami ludów koty rozprzestrzeniały się na kolejne obszary, docierając z Azji Mniejszej do Europy i dalszych części Azji. 
+W czasach rzymskich były już dobrze znane i cenione za swoje umiejętności łowieckie.
 
-..
+W średniowieczu koty odgrywały ważną rolę w walce z plagami gryzoni, choć nie zawsze cieszyły się dobrą opinią. 
+W niektórych kręgach uważano je za zwierzęta związane z magią i siłami nieczystymi. 
+Dopiero w epoce nowożytnej zaczęto dostrzegać ich prawdziwą wartość jako zwierząt towarzyszących. 
+W XIX wieku pojawiły się pierwsze wystawy kotów rasowych, a w XX wieku rozwój weterynarii i hodowli znacząco poprawił ich zdrowie i długość życia.
 
-W średniowieczu, niestety, los kotów nie był łatwy. W wielu krajach
-uważano je za stworzenia powiązane z czarami i siłami nieczystymi 
-Szczególnie czarne koty miały złą sławę, a ich spotkanie uznawano za
-zły omen. Przesądy te przetrwały w niektórych miejscach do dziś, choć
-w rzeczywistości czarne koty są równie przyjazne i inteligentne jak
-inne. Na szczęście z biegiem czasu ludzie zaczęli doceniać koty na
-nowo – za ich wdzięk, spokój i umiejętność łowienia gryzoni.
+Dziś koty są jednymi z najpopularniejszych zwierząt domowych na świecie. 
+Nie tylko pełnią rolę towarzyszy człowieka, lecz także stały się ważnym elementem kultury, sztuki i codziennego życia. 
+Ich obecność w naszych domach przypomina o wyjątkowej relacji, jaka od tysięcy lat łączy człowieka z tymi niezwykle inteligentnymi i tajemniczymi stworzeniami.
 
-..
 
-Czemu kotki są niezwykłe
----------------------------
 
-Koty mają niezwykłą budowę ciała. Ich mięśnie są elastyczne, a
-kręgosłup bardzo giętki, co pozwala im skakać na wysokości
-wielokrotnie przekraczające długość ich ciała. Potrafią poruszać się
-bezszelestnie, a ich zmysł równowagi jest doskonale rozwinięty.
-Dzięki specjalnej budowie uszu i wibrysów, czyli wąsów czuciowych,
-koty doskonale orientują się w przestrzeni oraz ciemności.
+Jak działa mechanizm więzi między człowiekiem a kotem
+-----------------------------------------------------
 
-..
+Oksytocyna, nazywana potocznie hormonem miłości, odgrywa niezwykle ważną rolę w kształtowaniu relacji społecznych i emocjonalnych. 
+To właśnie ona odpowiada za uczucie bliskości, zaufania oraz poczucie bezpieczeństwa między istotami. 
+Według badań przeprowadzonych w lutym 2025 roku, poziom oksytocyny znacząco wzrasta zarówno u ludzi, jak i u kotów w trakcie spokojnych, dobrowolnych interakcji — takich jak głaskanie, wspólny odpoczynek czy kontakt wzrokowy. 
+To dowodzi, że więź pomiędzy człowiekiem a kotem nie jest wyłącznie emocjonalna, lecz ma także swoje fizjologiczne podstawy.
 
-Jednym z najbardziej charakterystycznych zachowań kotów jest
-mruczenie. To dźwięk, który fascynuje naukowców od dawna. Mruczenie
-nie zawsze oznacza szczęście – czasem kot mruczy, gdy jest chory,
-przestraszony lub próbuje się uspokoić. Badania wykazały, że
-częstotliwość mruczenia może wspomagać regenerację tkanek i kości,
-dlatego mówi się, że koty potrafią „leczyć” nie tylko siebie, ale też
-ludzi. Nie bez powodu kontakt z kotem działa relaksująco – jego
-ciepło, miękkie futerko i rytmiczne mruczenie pomagają redukować
-stres i napięcie.
+Oksytocyna jest hormonem, który u ludzi wydziela się w momentach bliskości — podczas przytulania, porodu, karmienia piersią czy intymnych relacji. 
+Okazuje się, że zwykłe głaskanie mruczącego kota może wywoływać bardzo podobny efekt w naszym układzie nerwowym. 
+Kontakt z kotem aktywuje te same ośrodki w mózgu, które odpowiadają za odczuwanie spokoju, empatii i przywiązania, co tłumaczy, dlaczego obecność tych zwierząt działa na nas tak kojąco.
 
-Koty są też niezwykle inteligentne. Potrafią rozpoznawać głosy swoich
-opiekunów, uczą się rutyny dnia, wiedzą, kiedy jest pora karmienia, a
-nawet potrafią otwierać drzwi lub szafki. Choć nie reagują na komendy
-tak chętnie jak psy, to nie dlatego, że są mniej pojętne – po prostu
-mają silny instynkt niezależności. Kot nie wykonuje poleceń, jeśli
-nie ma w tym dla niego sensu. To właśnie ta niezależność sprawia, że
-koty są tak fascynujące.
+Sam dźwięk kociego mruczenia ma wyjątkowe właściwości terapeutyczne. 
+Niskoczęstotliwościowe wibracje w zakresie 25–150 Hz nie tylko wspomagają regenerację organizmu kota, ale też pozytywnie wpływają na ludzi. 
+Mruczenie potrafi obniżyć tętno, zredukować stres i zmniejszyć ciśnienie krwi. 
+Naukowcy sądzą, że to właśnie oksytocyna pośredniczy w tych procesach, tworząc biologiczne sprzężenie zwrotne między człowiekiem a zwierzęciem.
+
+Już w 2002 roku udowodniono, że delikatny dotyk i kontakt z kotem powodują wzrost poziomu oksytocyny, a tym samym spadek stężenia kortyzolu — hormonu odpowiedzialnego za stres. 
+W efekcie organizm człowieka reaguje rozluźnieniem, obniżeniem ciśnienia krwi oraz zwiększoną odpornością na ból. 
+To zjawisko pokazuje, że więź między człowiekiem a kotem ma nie tylko emocjonalny, lecz także biologiczny wymiar, który przynosi korzyści obu stronom.
+

@@ -1,49 +1,65 @@
-Najciekawsze i najpopularniejsze rasy kotów
+Rozdział 3
 ============================================
+
+Rasy kotów 
+--------------------------------------------
+
+Wbrew stereotypom koty potrafią okazywać głębokie przywiązanie. Każdy
+kot ma indywidualny charakter: niektóre są bardzo towarzyskie i
+chętnie śpią na kolanach, inne wolą zachować dystans i budować
+relacje na własnych zasadach. Sposoby wyrażania uczuć to m.in.
+ocieranie się o nogi, spanie blisko człowieka, przynoszenie
+„prezentów” czy łagodne gryzienie w ramach zabawy. Kot, który śpi
+przy człowieku, okazuje mu ogromne zaufanie, bo w czasie snu jest
+najbardziej podatny na zagrożenia.
+
+Różnorodność ras kotów jest naprawdę duża. Mamy długowłose persy,
+olbrzymie i łagodne maine coony, eleganckie syjamy z efektownymi oczami,
+bezwłose sfinksy przyjazne i czułe, bengalskie koty o umaszczeniu niczym
+dzikie koty, ragdolle rozluźniające się w ramionach człowieka czy
+norweskie leśne lubiące wspinaczki i ruch. Każdy kot jest inny, ale
+każdy wnosi do domu coś wyjątkowego – elegancję, wdzięk, zabawę,
+przyjaźń, tajemnicę i terapeutyczną moc!
+
+Koty to nie tylko wyjątkowi towarzysze – to także symbol tajemnicy,
+niezależności oraz piękna, które przez wieki inspirowało ludzi na całym
+świecie.
 
 Różnorodność kociego świata jest imponująca – od puszystych olbrzymów po
 eleganckie koty krótkowłose oraz egzotyczne rasy zachwycające
 oryginalnym wyglądem. Każda rasa ma swoje unikalne cechy charakteru,
 temperament oraz potrzeby, dlatego wybór odpowiedniego kota powinien być
 przemyślany pod kątem stylu życia i oczekiwań właściciela. Poniżej
-znajdziesz zestawienie wybranych ras kotów, które są cenione zarówno za
+znajduje się zestawienie wybranych ras kotów, które są cenione zarówno za
 urodę, jak i wyjątkowy charakter.
 
-Oto lista opisująca wybrane rasy kotków:
------------------------------------------
+Lista najciekawszych i popularnych ras kotów:
+---------------------------------------------------
 
--  Kot brytyjski krótkowłosy – bardzo spokojny, rodzinny i dobrze
-   dogaduje się z dziećmi.
--  Maine Coon – olbrzym w świecie kotów, łagodny, przyjacielski i
-   inteligentny.
--  Kot syberyjski – rasa odporna, uwielbiająca ruch, bardzo czuły
-   domownik.
--  Kot bengalski – charakterystyczne umaszczenie przypominające
-   lamparta; aktywny i ciekawy świata.
--  Kot perski – puszysty, spokojny, lubi pieszczoty i cichą atmosferę.
--  Kot rosyjski niebieski – smukły, elegancki, ma wyjątkowe niebieskie
-   umaszczenie.
--  Kot egipski mau – bardzo szybki, z zakropionym umaszczeniem, pokrewny
-   dawnym kotom faraonów.
--  Kot ragdoll – ogromny, bardzo łagodny i spokojny, lubi być noszony na
-   rękach.
--  Sfinks kanadyjski – całkiem bezwłosy, bardzo czuły i towarzyski.
--  Kot norweski leśny – silny, lubi wspinaczki, doskonały do bardziej
-   aktywnych domów.
+-  Abisyński - Jest jedną z najpopularniejszych (i najmądrzejszych) ras kotów w USA i jest uważany za Border Collie świata kotów.
+-  Maine Coon – Rasa pochodząca z Ameryki, jest on jedenym z największych kotów domowych.
+-  Ocicat - Koty te przypominają ocelota, rasa ta jest zauważona jak dziki kot, ale ma temperament zwierzęcia domowego.
+-  Syjamski - Siamese to najbardziej głośna rasa kotów. Syjamskie są zwykle bardzo czułymi i inteligentnymi kotami, znanymi ze swojej społecznej natury.
+-  Selkirk Rex - Znany jako kot w owczej skórze, jest jedną z czterech ras kotów o kręconych futrach, w tym wąsach.
+-  Rosyjski niebieski – Russian Blue to cichy, elegancki kot ze srebrno-niebieskim płaszczem. Lubią się bawić różnymi zabawkami i rozwijają niezwykle silne więzi z bliskimi.
+-  Kot egipski Mau – Egipski Mau jest najszybszą rasą kotów oraz to rasa małych i średnich kotów krótkowłosych.
+-  Perski - Jedna z najpopularniejszych ras na świecie, perska emanuje luksusem. Tradycyjny kot perski, znany również jako Doll Face Persian, jest uważany za prawdziwą rasę perską.
+-  Sfinks kanadyjski – Sfinks wydaje się być bezwłosym kotem, ale tak nie jest. Struktura skóry przypomina skórę zamszową i może być pokryta włosami welusowymi.
+-  Savannah - Z wyglądu przypominają troche gepardy, jednak w odróżnieniu od gepardów, koty te wolą sie przytulać niż ścigać.
 
-Tabelka o kotkach
--------------------
+Rasy kotów które charakterystycznie się od siebie różnią
+----------------------------------------------------------
 
-+------------------------+---------------------------------------------+
-| Cecha                  | Opis                                        |
-+========================+=============================================+
-| Gatunek                | Kot domowy (*Felis catus*)                  |
-+------------------------+---------------------------------------------+
-| Średnia długość życia  | 12–18 lat                                   |
-+------------------------+---------------------------------------------+
-| Ulubione zajęcie       | Spanie (nawet do 16 godzin dziennie)        |
-+------------------------+---------------------------------------------+
-| Liczba zębów           | 30                                          |
-+------------------------+---------------------------------------------+
-| Ulubione jedzenie      | Tuńczyk, kurczak, mokra karma               |
-+------------------------+---------------------------------------------+
++-----------------------+--------------------+-----------------------------------------------+
+| Rasa                  | Pochodzenie        | Cechy charakterystyczne                       |
++=======================+====================+===============================================+
+| Maine Coon            | USA                | Duży rozmiar, długi ogon, przyjazny charakter |
++-----------------------+--------------------+-----------------------------------------------+
+| Syjamski              | Tajlandia          | Smukły, towarzyski, bardzo „rozmowny”         |
++-----------------------+--------------------+-----------------------------------------------+
+| Egipski Mau           | Egipt              | Małe, średnie, krótko włose                   |
++-----------------------+--------------------+-----------------------------------------------+
+| Perski                | Iran               | Średnie, puszyste, krępa budowa               |
++-----------------------+--------------------+-----------------------------------------------+
+| Sfinks                | Kanada             | Łysy, ciepłolubny, przywiązany do ludzi       |
++-----------------------+--------------------+-----------------------------------------------+
